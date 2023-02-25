@@ -1,3 +1,7 @@
+Resultado final de la postcard
+
+![Screenshot](Postcard.PNG)
+
 <!-- hide -->
 # The Postcard
 <!-- endhide -->
